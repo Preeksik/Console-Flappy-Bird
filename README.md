@@ -2,7 +2,7 @@
 
 Klasyczna gra Flappy Bird przeniesiona do konsoli systemu Windows, napisana w czystym język C. Projekt obsługuje fizykę lotu, wykrywanie kolizji oraz system zapisu najlepszych wyników.
 
-![Gameplay](screen.png)
+![Gameplay](gameplay.png)
 
 ## 🎮 Funkcje
 
@@ -53,6 +53,6 @@ Gra automatycznie tworzy plik wyniki.txt w folderze z grą. Zapisywane są tam:
 
     Uzyskany wynik
 
-Po każdej przegranej algorytm sortuje wyniki i wyświetla podium. [tabela](tabela.png)
+Po każdej przegranej algorytm sortuje wyniki i wyświetla podium. ![tabela](tabela.png)
 
 Author: Preeksik
