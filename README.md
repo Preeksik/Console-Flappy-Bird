@@ -37,7 +37,7 @@ Projekt został napisany pod system **Windows** (wykorzystuje biblioteki `window
 ### Instrukcja
 1. Sklonuj repozytorium:
    ```bash
-   git clone [https://github.com/Preeksik/Console-Flappy-Bird.git](https://github.com/Preeksik/Console-Flappy-Bird.git)
+   git clone https://github.com/Preeksik/Console-Flappy-Bird.git
 2. Skompiluj kod:
    ```bash
    gcc main.c -o flappy.exe
